@@ -1,0 +1,20 @@
+{
+  "name": "sand-graphql",
+  "version": "1.0.0",
+  "description": "GraphQL Support for Sand",
+  "main": "lib/GraphQL.js",
+  "repository": {
+    "url": "git@github.com:SandJS/graphql.git",
+    "type": "git"
+  },
+  "author": "Kevin Smithson <ksmithson@sazze.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express-graphql": "^0.5.4",
+    "graphql": "^0.7.2",
+    "graphql-tools": "^0.8.0",
+    "require-all": "^2.0.0",
+    "sand-grain": "^1.2.1"
+  },
+  "peerDependencies": {}
+}
